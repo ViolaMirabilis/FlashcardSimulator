@@ -1,4 +1,4 @@
-#A console-based flashcard simulator designed to help students revise school materials
+# A console-based flashcard simulator designed to help students revise school materials
 ## The current features of the simulator are:
 * creating individual flashcards
 * creating groups of flashcards
